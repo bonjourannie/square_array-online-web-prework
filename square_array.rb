@@ -1,6 +1,6 @@
 def square_array(array)
   # your code here
-  squared = []
-  array.each {|| }
-  squared
+  #squared = []
+  #array.each {|| }
+  #squared
 end
